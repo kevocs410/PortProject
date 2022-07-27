@@ -17,7 +17,7 @@ $(".leelee").mouseenter(function(){
 })
 
 
-$(".music").mouseenter(function(){
+$(".entertainment").mouseenter(function(){
 
     $(this).fadeOut(200);
     $(this).fadeIn(200);
