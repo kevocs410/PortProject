@@ -10,7 +10,7 @@ $(".website").mouseenter(function(){
 
 
 
-$(".leelee").mouseenter(function(){
+$(".aboutMe").mouseenter(function(){
 
     $(this).fadeOut(200);
     $(this).fadeIn(200);

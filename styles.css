@@ -24,7 +24,7 @@ background-color: rgb(0, 0, 0);
 
     
   }
-.aboutMe{
+.intro{
     text-align: center;
     color: rgb(255, 255, 255);
 }
@@ -53,10 +53,10 @@ flex-basis: 0;
     vertical-align: top;
 }
 
-.leelee{
+.aboutMe{
    
     text-decoration: none;
-    background-image: url("https://www.leeleeff.com/static/media/logo0.295b6169.png");
+    background-image: url("PortProject/image0.jpeg");
     vertical-align: top;
     background-repeat: no-repeat;
     background-position: center;
