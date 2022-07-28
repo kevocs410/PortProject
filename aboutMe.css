@@ -48,3 +48,16 @@ height: 350px;
 
   }
 
+
+.myGoals{
+display: flex;
+flex-wrap: wrap;
+width: 1775px;
+justify-content: center;
+}
+
+.MG{
+
+
+
+}
