@@ -94,3 +94,14 @@ width: 400px;
 }
 
 
+.aboutMe{
+  height:299px;
+  width: 400px;
+
+}
+
+.aboutMeBox{
+  display: flex;
+  flex-wrap:wrap;
+  padding-left: 200px;
+}
