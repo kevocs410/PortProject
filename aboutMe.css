@@ -3,7 +3,27 @@ body{
     font-family: 'Cormorant SC', serif;
 }
 
+@media only screen and (max-width: 900px) {
+  .aboutMeBox { display: flex;
+    flex-wrap:wrap;
+  }
+.whatIDone{
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
 
+}
+
+
+@media only screen and (max-width: 1855px) {
+  
+figcaption{
+display: none;
+
+}
+
+}
 
 .title{
 text-align: center;
@@ -104,4 +124,5 @@ width: 400px;
   display: flex;
   flex-wrap:wrap;
   padding-left: 200px;
+
 }
