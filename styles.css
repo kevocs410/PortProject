@@ -25,11 +25,13 @@ display: none;
 
 }
 
+
 .title{
 text-align: center;
 font-size: 5rem;
 
 }
+
 
 .followMeTitle{
   text-align: center;
@@ -85,11 +87,6 @@ width: 1775px;
 justify-content: center;
 }
 
-.socialIcon{
-  position: absolute;
-right: 724px;
-}
-
 
 .whatIDone{
 
@@ -125,4 +122,47 @@ width: 400px;
   flex-wrap:wrap;
   padding-left: 200px;
 
+}
+
+
+.socialIcon{
+ height: fit-content;
+  width: 2340px;
+  display: flex;
+  flex-wrap: wrap;
+justify-content: center;
+flex-direction: row;
+padding: 60px;
+
+}
+
+
+.fa {
+  padding: 52px;
+  font-size: 33px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  /* margin: 99px 187px; */
+  border-radius: 50%;
+ 
+
+}
+
+
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.socialL{
+  flex: 0 0 100%;
+text-align: center;
+padding: 40px;
 }
