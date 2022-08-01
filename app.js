@@ -59,7 +59,7 @@ $(".grapixDesign").on("mouseover",function(){
 $(".aboutMeHide").hide()
 
 
-        $(".aboutMeP").on("mouseover",function(){
+        $(".aboutMeP").on("click",function(){
             $(".aboutMeHide").fadeIn(2000);
         })
        

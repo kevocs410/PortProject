@@ -75,7 +75,7 @@ font-size: 5rem;
   .infoContainer{
 display: flex;
 flex-wrap: wrap;
-height: 350px;
+height: 540px;
 
   }
 
@@ -93,6 +93,13 @@ justify-content: center;
   display: flex;
   flex-wrap:wrap;
   padding-left: 200px;
+  
+}
+
+.moreInfo{
+
+  flex: 0 0 100%;
+padding-top: 60px;
 }
 
 
@@ -166,3 +173,4 @@ padding: 60px;
 text-align: center;
 padding: 40px;
 }
+
