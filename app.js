@@ -49,10 +49,10 @@ $(".title").fadeIn(2000)
 
 
 $(".grapixDesign").on("mouseover",function(){
-    $(".grapixDesign").attr("src", "/Users/kevoproductions/Desktop/Port project/PortProject/r.jpeg")})
+    $(".grapixDesign").attr("src", "r.jpeg")})
 
     $(".grapixDesign").on("mouseleave",function(){
-        $(".grapixDesign").attr("src", "/Users/kevoproductions/Desktop/Port project/PortProject/desin.jpeg")})
+        $(".grapixDesign").attr("src", "desin.jpeg")})
 
 
       
