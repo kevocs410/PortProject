@@ -16,7 +16,7 @@ $(".title").fadeIn(2000)
 })
 
 
-$(".leftButton").on("click",function(){
+$(".socialButton").on("click",function(){
     $(".whatIDone").hide()
     $(".myGoals").hide()
     $(".aboutMe").hide()
@@ -26,7 +26,7 @@ $(".socialIcon").fadeIn(2000)
 $(".followMeTitle").fadeIn(2000)
 })
 
-$(".middleButton").on("click",function(){
+$(".whatButton").on("click",function(){
     $(".socialIcon").hide()
     $(".myGoals").hide()
     $(".title").hide()
@@ -37,7 +37,7 @@ $(".whatIDoTitle").fadeIn(2000)
 })
       
     
-$(".rightButton").on("click",function(){
+$(".myGoalsButton").on("click",function(){
     $(".socialIcon").hide()
     $(".whatIDone").hide()
     $(".followMeTitle").hide()
